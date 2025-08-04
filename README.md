@@ -46,5 +46,12 @@
 
 # python email\_extractor.py
 
+## Example Output
+
+Here’s what the script looks like when it runs:
+
+![Screenshot](screenshot.png)
+
+
 
 
